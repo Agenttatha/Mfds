@@ -1,0 +1,45 @@
+   TeamA TeamB sports
+1     10    16      a
+2     11    17      b
+3     12    18      c
+4     13    19      d
+5     14    20      e
+6     15    21      f
+7     16    22      g
+8     17    23      h
+9     18    24      i
+10    19    25      j
+   TeamA TeamB sports selected
+1     10    16      a        2
+2     11    17      b        3
+3     12    18      c        4
+4     13    19      d        4
+5     14    20      e        3
+6     15    21      f        5
+7     16    22      g        2
+8     17    23      h        1
+9     18    24      i        6
+10    19    25      j        1
+   TeamA TeamB sports selected
+1     10    16      a        2
+2     11    17      b        3
+3     12    18      c        4
+4     13    19      d        4
+5     14    20      e        3
+6     15    21      f        5
+7     16    22      g        2
+8     17    23      h        1
+9     18    24      i        6
+10    19    25      j        1
+11    10    20      k        3
+  TeamA TeamB sports selected
+3    12    18      c        4
+4    13    19      d        4
+6    15    21      f        5
+9    18    24      i        6
+   TeamA TeamB sports selected
+2     11    17      b        3
+5     14    20      e        3
+11    10    20      k        3
+  TeamA TeamB sports selected
+9    18    24      i        6
